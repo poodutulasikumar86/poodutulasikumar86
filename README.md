@@ -16,6 +16,9 @@ Hardware | RF & Communication | Embedded Systems | Electronics
 </a>
 </p></div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=poodutulasikumar86&theme=radical&no-frame=true&margin-w=10" width="90%" />
+
  About Me
 
 I'm a B.Tech Electronics & Communication Engineering student passionate about understanding how electronic systems work and turning concepts into practical projects.
