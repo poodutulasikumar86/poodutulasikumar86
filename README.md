@@ -56,27 +56,6 @@ I'm a B.Tech Electronics & Communication Engineering student passionate about un
 
 ---
 
-🚀 Featured Project
-
-📡 GA-Optimized T-Network RF Coil Matching
-
-T-Network Impedance Matching of RF Coils with Complex Loads in Biomedical Sensor Applications
-
-A practical RF project focused on impedance matching of RF coils with complex loads using a T-network and optimization techniques.
-
-Key areas:
-
-- 📡 RF impedance matching
-- 🔬 T-network design
-- 🧠 Genetic Algorithm optimization
-- 📊 S-parameter analysis
-- 💻 MATLAB simulation
-- 🩺 Biomedical sensor applications
-
-Repository:
-"View Project →" (https://github.com/poodutulasikumar86/GA-Optimized-T-Network-RF-Coil-Matching)
-
----
 
 📚 Currently Learning
 
@@ -93,15 +72,27 @@ Area| Focus
 
 📊 GitHub
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=poodutulasikumar86&show_icons=true&hide_border=true&rank_icon=github" height="170"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poodutulasikumar86&layout=compact&hide_border=true" height="170"/></div>---
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=poodutulasikumar86&show_icons=true&hide_border=true&rank_icon=github" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poodutulasikumar86&layout=compact&hide_border=true" height="170">
+
+</div>
 
 🏆 GitHub Achievements
+<div align="center">
 
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=poodutulasikumar86&theme=flat&no-frame=true&margin-w=10"/></div>---
+<img src="https://github-profile-trophy.vercel.app/?username=poodutulasikumar86&theme=flat&no-frame=true&margin-w=10">
 
+</div>
 🔥 Contribution Activity
 
-<div align="center"><img src="https://streak-stats.demolab.com?user=poodutulasikumar86&hide_border=true" /></div>---
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=poodutulasikumar86&hide_border=true">
+
+</div>
 
 🎯 My Goal
 
