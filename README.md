@@ -56,12 +56,11 @@ Area| Focus
 ---
 ## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="./profile/stats.svg" width="60%" />
-</p>
+## 📊 GitHub Status & Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poodutulasikumar86&theme=radical&no-frame=true&margin-w=10" width="90%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=poodutulasikumar86&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=poodutulasikumar86&theme=radical&no-frame=true&no-bg=true&margin-w=4" width="48%" />
 </p>
 ---
 
