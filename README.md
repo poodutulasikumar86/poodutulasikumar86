@@ -15,13 +15,14 @@ Hardware | RF & Communication | Embedded Systems | Electronics
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p></div>
-## 👀 Profile Views
+ Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=poodutulasikumar86&label=Profile%20Views&color=blue&style=flat" />
 </p>
 
- About Me
+## 👨‍💻 About Me
+
 
 I'm a B.Tech Electronics & Communication Engineering student passionate about understanding how electronic systems work and turning concepts into practical projects.
 
@@ -33,29 +34,30 @@ I'm a B.Tech Electronics & Communication Engineering student passionate about un
 
 ---
 
-⚡ My Engineering Interests
+## ⚙️ My Engineering Interests
 
-📡 RF & Communication
+
+ RF & Communication
         ↓
-⚡ Electronics & Hardware
+ Electronics & Hardware
         ↓
-🔧 Embedded Systems
+ Embedded Systems
         ↓
-🧩 PCB & VLSI
+ PCB & VLSI
         ↓
-🚀 Practical Engineering Projects
+ Practical Engineering Projects
 
 ---
-📚 Currently Learning
+## 📚 Currently Learning
 
 Area| Focus
-⚡ Electronics| Analog & Digital Electronics
-📡 Communication| RF & Communication Systems
-💻 Programming| C & Python
-🔬 Simulation| MATLAB & Multisim
-🔧 Hardware| Embedded Systems
-🧩 Digital Design| VLSI
-🛠️ Hardware Design| PCB Design
+ Electronics| Analog & Digital Electronics
+ Communication| RF & Communication Systems
+ Programming| C & Python
+ Simulation| MATLAB & Multisim
+ Hardware| Embedded Systems
+ Digital Design| VLSI
+ Hardware Design| PCB Design
 
 
 ---
@@ -69,7 +71,7 @@ Area| Focus
 <p align="center">
   <img src="./profile/trophy.svg" width="90%" />
 </p>
----
+
 
 ## 🔥 Contribution Streak
 
@@ -79,7 +81,7 @@ Area| Focus
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <p align="center">
 
@@ -89,12 +91,13 @@ Area| Focus
 
 ---
 
-## 🎯 My Goal
+##  My Goal
 
 > To build strong practical skills in electronics, hardware, RF systems and embedded technology, and develop real-world engineering solutions.
 ---
 
-🤝 Let's Connect
+## 🤝 Let's Connect
+
 
 <div align="center"><a href="https://www.linkedin.com/in/poodutulasikumar86">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
