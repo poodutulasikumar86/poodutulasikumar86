@@ -54,8 +54,6 @@ Area| Focus
 
 
 ---
-## 📊 GitHub Stats & Trophies
-
 ## 📊 GitHub Status & Trophies
 
 <p align="center">
