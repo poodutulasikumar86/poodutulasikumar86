@@ -14,9 +14,9 @@ Hardware | RF & Communication | Embedded Systems | Electronics
 <a href="poodutulasikumar86@gmail.c">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-</p></div>---
+</p></div>
 
-🧑‍💻 About Me
+ About Me
 
 I'm a B.Tech Electronics & Communication Engineering student passionate about understanding how electronic systems work and turning concepts into practical projects.
 
