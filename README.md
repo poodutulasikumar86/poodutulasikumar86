@@ -41,22 +41,6 @@ I'm a B.Tech Electronics & Communication Engineering student passionate about un
 🚀 Practical Engineering Projects
 
 ---
-
-🛠️ Skills & Technologies
-
-💻 Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,matlab" />
-</p>🔧 Tools & Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>Also exploring: MATLAB • Multisim • PCB Design • Embedded Systems • VLSI
-
----
-
-
 📚 Currently Learning
 
 Area| Focus
@@ -68,7 +52,6 @@ Area| Focus
 🧩 Digital Design| VLSI
 🛠️ Hardware Design| PCB Design
 
----
 
 ---
 
