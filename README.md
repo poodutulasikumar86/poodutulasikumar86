@@ -55,7 +55,7 @@ Area| Focus
 
 ---
 
-## 📊 GitHub Status & Trophies
+## 📊 GitHub Stats & Trophies
 
 <p align="center">
   <img src="./profile/stats.svg" width="60%" />
