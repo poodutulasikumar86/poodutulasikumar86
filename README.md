@@ -54,11 +54,11 @@ Area| Focus
 
 
 ---
-
 ## 📊 GitHub Status & Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poodutulasikumar86&show_icons=true&theme=radical" width="60%" />
+  <img src="./profile/stats.svg" width="48%" />
+  <img src="./profile/trophy.svg" width="48%" />
 </p>
 ---
 
