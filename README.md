@@ -64,6 +64,9 @@ Area| Focus
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=poodutulasikumar86&theme=radical&no-frame=true&margin-w=10" width="90%" />
 </p>
+<p align="center">
+  <img src="./profile/trophy.svg" width="90%" />
+</p>
 ---
 
 ## 🔥 Contribution Streak
