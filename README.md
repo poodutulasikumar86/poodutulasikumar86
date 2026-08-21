@@ -15,9 +15,11 @@ Hardware | RF & Communication | Embedded Systems | Electronics
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p></div>
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=poodutulasikumar86&theme=radical&no-frame=true&margin-w=10" width="90%" />
+  <img src="https://komarev.com/ghpvc/?username=poodutulasikumar86&label=Profile%20Views&color=blue&style=flat" />
+</p>
 
  About Me
 
