@@ -70,34 +70,46 @@ Area| Focus
 
 ---
 
-📊 GitHub
+---
 
-<div align="center">
+# 📊 GitHub Stats & Trophies
 
-<img src="https://github-readme-stats.vercel.app/api?username=poodutulasikumar86&show_icons=true&hide_border=true&rank_icon=github" height="170">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=poodutulasikumar86&show_icons=true&theme=radical&hide_border=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poodutulasikumar86&layout=compact&theme=radical&hide_border=true" width="40%" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poodutulasikumar86&layout=compact&hide_border=true" height="170">
+---
 
-</div>
+## 🏆 GitHub Trophies
 
-🏆 GitHub Achievements
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=poodutulasikumar86&theme=radical&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%" />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=poodutulasikumar86&theme=flat&no-frame=true&margin-w=10">
+---
 
-</div>
-🔥 Contribution Activity
+## 🔥 Contribution Streak
 
-<div align="center">
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=poodutulasikumar86&theme=radical&hide_border=true" width="70%" />
+</p>
 
-<img src="https://streak-stats.demolab.com/?user=poodutulasikumar86&hide_border=true">
+---
 
-</div>
+## 🛠️ Languages & Tools
 
-🎯 My Goal
+<p align="center">
 
-«To build strong practical skills in electronics and hardware and develop engineering projects that solve real-world problems.»
+<img src="https://skillicons.dev/icons?i=c,python,matlab,git,github,vscode,arduino" />
 
+</p>
+
+---
+
+## 🎯 My Goal
+
+> To build strong practical skills in electronics, hardware, RF systems and embedded technology, and develop real-world engineering solutions.
 ---
 
 🤝 Let's Connect
