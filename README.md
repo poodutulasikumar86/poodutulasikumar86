@@ -75,9 +75,7 @@ Area| Focus
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <a href="https://github.com/poodutulasikumar86">
-    <img src="https://streak-stats.demolab.com/?user=poodutulasikumar86&theme=radical&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="./profile/streak.svg" alt="GitHub Contribution Streak">
 </p>
 ---
 
